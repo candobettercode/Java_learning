@@ -23,7 +23,7 @@ public class Condition {
         //}
 
         int a = sc.nextInt();
-        int b = sc.5nextInt();
+        int b = sc.nextInt();
 
         if (a == b){
             System.out.println("Equal");
